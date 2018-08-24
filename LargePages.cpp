@@ -7,6 +7,9 @@ uint64_t       g_PageMask  = g_PageMask0;
 bool verbose = true;
 
 
+
+
+
 #pragma comment(lib, "advapi32.lib")
 
 void InitLargePages()
